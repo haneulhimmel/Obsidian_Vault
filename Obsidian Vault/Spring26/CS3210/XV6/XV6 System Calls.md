@@ -1,0 +1,6 @@
+- Write(fd, buf, n): "The call write(fd, buf, n) writes n bytes from buf to the file descriptor fd and returns the number of bytes written."
+- Read(fd, buf, n): "The call read(fd, buf, n) reads at most n bytes from the file descriptor fd, copies them into buf, and returns the number of bytes read."
+- Open(filename, flag): Open a file; the flags indicate read/write
+- Fork(): 
+- Sbrk(n): Grow process's memory by n bytes
+	- sbrk returns the location of the new memory

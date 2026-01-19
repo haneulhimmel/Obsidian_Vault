@@ -1,0 +1,12 @@
+- Parts to Implement
+	- Codebase
+		- Sensors
+		- Mapping
+		- AI?
+		- Awareness
+		- Interface
+		- IOT
+	- Physical
+		- Printing
+		- Wiring
+		- Schematic Planning
