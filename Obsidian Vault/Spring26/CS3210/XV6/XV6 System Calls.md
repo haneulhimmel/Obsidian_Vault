@@ -4,3 +4,4 @@
 - Fork(): 
 - Sbrk(n): Grow process's memory by n bytes
 	- sbrk returns the location of the new memory
+	- Error return: -1 for sbrk and 0 for malloc

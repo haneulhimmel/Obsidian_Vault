@@ -14,3 +14,9 @@
 		- ![[Screenshot 2026-01-14 145610.png]]
 	- Loops, Arrays, Random Overview
 		-  ![[Screenshot 2026-01-15 010727.png]]
+
+```
+$ pingpong 
+child: received ping from 8
+parent: received pong from 9
+```
