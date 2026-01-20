@@ -27,12 +27,13 @@
 		- Divergence $$\nabla \cdot{\overrightarrow{A}} = \frac{1}{h_{1}h_{2}h_{3}} [\frac{\partial}{\partial{u_{1}}}(h_{2}h_{3}A_{1}) + \frac{\partial}{\partial{u_{2}}}(h_{1}h_{3}A_{2}) + \frac{\partial}{\partial{u_{3}}}(h_{2}h_{1}A)3]$$
 		- Curl $$\nabla \times {\overrightarrow{A}} = \frac{1}{h_{1}h_{2}h_{3}}\ \begin{vmatrix}
 h_{1}\hat{a_{1}} & h_{2}\hat{a_{2}} & h_{3}\hat{a_{3}} \\
-
+a & b & c  \\
+1 & 2 & 3
 \end{vmatrix}$$
 			* $\nabla^{2}\phi = 0$ : Laplace's Equation
 			
 	iii. Cylindrical
-	- Example of Cylindrical -> Coaxial Cable ($Inner Radius, Outer Radius, V_{inner}, V_{outer}$)
+	- Example of Cylindrical -> Coaxial Cable ($\mathrm{{}Inner\ Radius, Outer\ Radius, V_{inner}, V_{outer}}$)
 		- Capacitance per Unit Length $$V(\rho = a) = V^{+}\ \&\ V(\rho = b)$$
 	- ($u_{1},u_{2},u_{3}$) -> $(\rho, \phi, z)$
 		- $\rho$ is the distance from z

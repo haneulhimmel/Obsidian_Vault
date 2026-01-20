@@ -15,7 +15,7 @@
 	- Loops, Arrays, Random Overview
 		-  ![[Screenshot 2026-01-15 010727.png]]
 
-```
+```bash
 $ pingpong 
 child: received ping from 8
 parent: received pong from 9

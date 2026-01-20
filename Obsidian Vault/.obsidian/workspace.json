@@ -4,51 +4,24 @@
     "type": "split",
     "children": [
       {
-        "id": "cbd010408e394931",
+        "id": "28af11d7392611b9",
         "type": "tabs",
         "children": [
           {
-            "id": "1d329ded87d4f067",
+            "id": "04a10397ba3f2bf4",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Spring26/CS3210/Labs/README.md",
+                "file": "Spring26/ECE2036/Intro.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "README"
-            }
-          },
-          {
-            "id": "16b621c0ca0bdf8b",
-            "type": "leaf",
-            "state": {
-              "type": "pdf",
-              "state": {
-                "file": "Spring26/CS3210/Text/OS Textbook.pdf"
-              },
-              "icon": "lucide-file-text",
-              "title": "OS Textbook"
-            }
-          },
-          {
-            "id": "3e97f04bdad2e4bf",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Spring26/CS3210/XV6/XV6 System Calls.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "XV6 System Calls"
+              "title": "Intro"
             }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "vertical"
@@ -105,8 +78,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "right": {
     "id": "090be3bc32675644",
@@ -209,31 +181,34 @@
       "templates:Insert template": false,
       "command-palette:Open command palette": false,
       "bases:Create new base": false,
-      "obsidian-git:Open Git source control": false
+      "obsidian-git:Open Git source control": false,
+      "code-files:Create Code File": false
     }
   },
-  "active": "3e97f04bdad2e4bf",
+  "active": "04a10397ba3f2bf4",
   "lastOpenFiles": [
     "Spring26/CS3210/Labs/README.md",
+    "Spring26/ECE2036/Intro.md",
+    "Spring26/ECE2036/Image Ref/Screenshot 2026-01-15 010727.png",
+    "Spring26/ECE2036/Image Ref/Screenshot 2026-01-14 145610.png",
+    "Spring26/ECE2036/Labs/Lab1/lab1Part1.cpp",
+    "Spring26/ECE2036/Labs/Lab1/Lab1.pdf",
+    "Spring26/ECE2036/Text/C++ How to Program, 10th Edition.pdf",
+    "Spring26/ECE2036/Labs/Lab1/My code file.cpp",
+    "Spring26/ECE2036/Labs/Lab1/lab1Part1.cc",
+    "Spring26/ECE3025/ECE3025 Intro - Review.md",
+    "Spring26/ECE3025/Chapter 1 - Vector Analysis and Coordinate Systems.md",
+    "Spring26/ECE3025/Text",
+    "Spring26/ECE2036/Text",
     "Spring26/CS3210/Text/OS Textbook.pdf",
     "Spring26/CS3210/XV6/XV6 System Calls.md",
-    "Spring26/ECE2036/Intro.md",
     "DS.md",
     "Spring26/CS3210/Labs/Lab0.md",
     "Spring26/CS3210/Labs",
     "Spring26/ECE1100/Resume Template_Ready for Edits.docx",
-    "Spring26/ECE1100",
-    "Spring26/New folder",
-    "Spring26/ECE2036/Labs/Lab1/Lab1.pdf",
-    "Spring26/ECE2036/Labs/Lab1",
-    "Spring26/ECE2036/Labs/New folder",
-    "Spring26/ECE2036/Labs",
-    "Spring26/ECE2036/New folder",
     "Untitled 1.md",
     "Spring26/CS3210/Intro - 1.13.2026.md",
     "2026-01-13.md",
-    "Spring26/ECE3025/Chapter 1 - Vector Analysis and Coordinate Systems.md",
-    "Spring26/ECE3025/ECE3025 Intro - Review.md",
     "2026-01-12.md",
     "Robotic Arm/Brainstorm.md",
     "Robotic Arm/Mechanical Arm Key Measurements.md",
