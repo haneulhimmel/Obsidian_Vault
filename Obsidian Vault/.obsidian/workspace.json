@@ -11,17 +11,30 @@
             "id": "04a10397ba3f2bf4",
             "type": "leaf",
             "state": {
+              "type": "pdf",
+              "state": {
+                "file": "Spring26/CS3210/Text/OS Textbook.pdf"
+              },
+              "icon": "lucide-file-text",
+              "title": "OS Textbook"
+            }
+          },
+          {
+            "id": "9985f865c2465782",
+            "type": "leaf",
+            "state": {
               "type": "markdown",
               "state": {
-                "file": "Spring26/ECE2036/Intro.md",
+                "file": "Spring26/CS3210/Labs/Lab0/README.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Intro"
+              "title": "README"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -185,10 +198,16 @@
       "code-files:Create Code File": false
     }
   },
-  "active": "04a10397ba3f2bf4",
+  "active": "9985f865c2465782",
   "lastOpenFiles": [
-    "Spring26/CS3210/Labs/README.md",
+    "Spring26/CS3210/Text/OS Textbook.pdf",
+    "Spring26/CS3210/Labs/Lab0/README.md",
+    "Spring26/CS3210/Labs/Lab Notes/Week 1.md",
+    "Spring26/CS3210/XV6/XV6 System Calls.md",
+    "Spring26/CS3210/Labs/Lab0",
+    "Spring26/CS3210/Labs/Lab Notes",
     "Spring26/ECE2036/Intro.md",
+    "Spring26/ECE2036/Labs/Lab1/lab1Part2.cc",
     "Spring26/ECE2036/Image Ref/Screenshot 2026-01-15 010727.png",
     "Spring26/ECE2036/Image Ref/Screenshot 2026-01-14 145610.png",
     "Spring26/ECE2036/Labs/Lab1/lab1Part1.cpp",
@@ -199,13 +218,8 @@
     "Spring26/ECE3025/ECE3025 Intro - Review.md",
     "Spring26/ECE3025/Chapter 1 - Vector Analysis and Coordinate Systems.md",
     "Spring26/ECE3025/Text",
-    "Spring26/ECE2036/Text",
-    "Spring26/CS3210/Text/OS Textbook.pdf",
-    "Spring26/CS3210/XV6/XV6 System Calls.md",
     "DS.md",
     "Spring26/CS3210/Labs/Lab0.md",
-    "Spring26/CS3210/Labs",
-    "Spring26/ECE1100/Resume Template_Ready for Edits.docx",
     "Untitled 1.md",
     "Spring26/CS3210/Intro - 1.13.2026.md",
     "2026-01-13.md",
