@@ -107,9 +107,9 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "create a link.md",
-                "collapseAll": false,
-                "extraContext": false,
+                "file": "Spring26/ECE3040/Lecture 3.md",
+                "collapseAll": true,
+                "extraContext": true,
                 "sortOrder": "alphabetical",
                 "showSearch": false,
                 "searchQuery": "",
@@ -117,7 +117,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for create a link"
+              "title": "Backlinks for Lecture 3"
             }
           },
           {
