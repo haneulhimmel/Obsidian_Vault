@@ -25,12 +25,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Spring26/CS3210/Labs/Lab0/README.md",
+                "file": "Spring26/ECE3040/Lecture 3.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "README"
+              "title": "Lecture 3"
             }
           }
         ],
@@ -200,8 +200,10 @@
   },
   "active": "9985f865c2465782",
   "lastOpenFiles": [
-    "Spring26/CS3210/Text/OS Textbook.pdf",
     "Spring26/CS3210/Labs/Lab0/README.md",
+    "Spring26/ECE3040/Lecture 3.md",
+    "Spring26/ECE3040",
+    "Spring26/CS3210/Text/OS Textbook.pdf",
     "Spring26/CS3210/Labs/Lab Notes/Week 1.md",
     "Spring26/CS3210/XV6/XV6 System Calls.md",
     "Spring26/CS3210/Labs/Lab0",
@@ -217,7 +219,6 @@
     "Spring26/ECE2036/Labs/Lab1/lab1Part1.cc",
     "Spring26/ECE3025/ECE3025 Intro - Review.md",
     "Spring26/ECE3025/Chapter 1 - Vector Analysis and Coordinate Systems.md",
-    "Spring26/ECE3025/Text",
     "DS.md",
     "Spring26/CS3210/Labs/Lab0.md",
     "Untitled 1.md",
