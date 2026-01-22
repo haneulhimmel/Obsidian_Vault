@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Spring26/CS3210/x86/General Overview.md",
+                "file": "Spring26/CS3210/x86/x86 - General Overview.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "General Overview"
+              "title": "x86 - General Overview"
             }
           },
           {
@@ -106,7 +106,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Spring26/CS3210/x86/General Overview.md",
+                "file": "Spring26/CS3210/x86/x86 - General Overview.md",
                 "collapseAll": true,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -116,7 +116,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for General Overview"
+              "title": "Backlinks for x86 - General Overview"
             }
           },
           {
@@ -199,11 +199,14 @@
   },
   "active": "04a10397ba3f2bf4",
   "lastOpenFiles": [
+    "Spring26/CS3210/XV6/XV6 - System Calls.md",
+    "Spring26/CS3210/x86/x86 - General Overview.md",
+    "Spring26/CS3210/XV6/XV6 - General Overview.md",
+    "Spring26/ECE2031/Img Ref/Pasted image 20260122044407.png",
+    "Spring26/ECE2031/Img Ref",
     "Spring26/CS3210/Intro - Course Overview.md",
-    "Spring26/CS3210/x86/General Overview.md",
     "Spring26/CS3210/x86",
     "Spring26/ECE2031/Labs/Lab 1.md",
-    "Pasted image 20260122044407.png",
     "Spring26/ECE3040/Lecture 3.md",
     "Spring26/ECE2031/Labs",
     "Spring26/ECE2031",
@@ -211,10 +214,8 @@
     "Spring26/ECE3040/Img Ref",
     "Spring26/ECE3040/Img Ref/Pasted image 20260121092431.png",
     "Spring26/CS3210/Labs/Lab0/README.md",
-    "Spring26/CS3210/XV6/XV6 System Calls.md",
     "Spring26/CS3210/Text/OS Textbook.pdf",
     "Spring26/ECE3025/Chapter 1 - Vector Analysis and Coordinate Systems.md",
-    "Spring26/CS3210/XV6/XV6 - High Level Breakdown.md",
     "Spring26/ECE3040",
     "Spring26/CS3210/Labs/Lab Notes/Week 1.md",
     "Spring26/CS3210/Labs/Lab0",
@@ -223,7 +224,6 @@
     "Spring26/ECE2036/Labs/Lab1/lab1Part2.cc",
     "Spring26/ECE2036/Image Ref/Screenshot 2026-01-15 010727.png",
     "Spring26/ECE2036/Image Ref/Screenshot 2026-01-14 145610.png",
-    "Spring26/ECE2036/Labs/Lab1/lab1Part1.cpp",
     "Spring26/ECE3025/ECE3025 Intro - Review.md",
     "DS.md",
     "Spring26/CS3210/Labs/Lab0.md",
