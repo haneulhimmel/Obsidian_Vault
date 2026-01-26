@@ -1,0 +1,5 @@
+- Cubic Crystal Structures
+	- FCC Lattice![[Pasted image 20260125033738.png]]
+	- BCC Lattice![[Pasted image 20260125033749.png]]
+	- ![[Pasted image 20260125201233.png]]
+	- ![[Pasted image 20260125201929.png]]

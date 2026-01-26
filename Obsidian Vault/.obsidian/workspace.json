@@ -11,29 +11,28 @@
             "id": "04a10397ba3f2bf4",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "pdf",
               "state": {
-                "file": "Spring26/CS3210/x86/x86 - General Overview.md",
-                "mode": "source",
-                "source": false
+                "file": "Spring26/ECE3040/Textbook/pierret-1996.pdf"
               },
-              "icon": "lucide-file",
-              "title": "x86 - General Overview"
+              "icon": "lucide-file-text",
+              "title": "pierret-1996"
             }
           },
           {
-            "id": "0451495a618e373d",
+            "id": "ec03c12b4960d5a1",
             "type": "leaf",
             "state": {
               "type": "pdf",
               "state": {
-                "file": "Spring26/CS3210/Text/OS Textbook.pdf"
+                "file": "Spring26/ECE3040/Homework/ECE3040 HW1.pdf"
               },
               "icon": "lucide-file-text",
-              "title": "OS Textbook"
+              "title": "ECE3040 HW1"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -106,7 +105,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Spring26/CS3210/x86/x86 - General Overview.md",
+                "file": "Spring26/ECE2031/Labs/Lab 1.md",
                 "collapseAll": true,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -116,7 +115,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for x86 - General Overview"
+              "title": "Backlinks for Lab 1"
             }
           },
           {
@@ -197,36 +196,42 @@
       "code-files:Create Code File": false
     }
   },
-  "active": "04a10397ba3f2bf4",
+  "active": "ec03c12b4960d5a1",
   "lastOpenFiles": [
-    "Spring26/CS3210/XV6/XV6 - System Calls.md",
-    "Spring26/CS3210/x86/x86 - General Overview.md",
-    "Spring26/CS3210/XV6/XV6 - General Overview.md",
-    "Spring26/ECE2031/Img Ref/Pasted image 20260122044407.png",
-    "Spring26/ECE2031/Img Ref",
-    "Spring26/CS3210/Intro - Course Overview.md",
-    "Spring26/CS3210/x86",
+    "Spring26/ECE3040/Img Ref/Pasted image 20260125201929.png",
+    "Spring26/ECE3040/Img Ref/Pasted image 20260125201233.png",
+    "Spring26/ECE3040/Textbook/pierret-solns.pdf",
+    "Spring26/ECE3040/Homework/ECE3040 HW1.pdf",
+    "Spring26/ECE3040/Homework",
+    "Spring26/ECE3040/New folder",
+    "Spring26/ECE3040/Textbook/pierret-1996.pdf",
+    "Spring26/ECE3040/Lectures/Lecture 2.md",
+    "Spring26/DS.md",
     "Spring26/ECE2031/Labs/Lab 1.md",
-    "Spring26/ECE3040/Lecture 3.md",
-    "Spring26/ECE2031/Labs",
-    "Spring26/ECE2031",
+    "Spring26/ECE3040/Textbook/pierret-solns-same-prob.pdf",
+    "Spring26/ECE3040/Textbook/pdfcoffee.com_semiconductor-device-fundamentals-solutions-manual-robert-pierret-pdf-free.pdf",
+    "Spring26/ECE3040/Textbook/semiconductor-device-fundamentals-2nd-edition-by-robert-f-pierret_compress.pdf",
+    "Spring26/ECE3040/Textbook/cbd92f95-8157-4288-9fef-85ba361d1d8e.pdf",
+    "Spring26/ECE3040/Textbook/microelectronic-circuit-design-4th-edition-jaeger.pdf",
+    "Spring26/ECE3040/Img Ref/Pasted image 20260125033749.png",
+    "Spring26/ECE3040/Img Ref/Pasted image 20260125033738.png",
+    "Spring26/ECE3040/Lectures/Lecture 3.md",
     "Spring26/ECE3040/Img Ref/Pasted image 20260121100734.png",
-    "Spring26/ECE3040/Img Ref",
     "Spring26/ECE3040/Img Ref/Pasted image 20260121092431.png",
-    "Spring26/CS3210/Labs/Lab0/README.md",
-    "Spring26/CS3210/Text/OS Textbook.pdf",
-    "Spring26/ECE3025/Chapter 1 - Vector Analysis and Coordinate Systems.md",
-    "Spring26/ECE3040",
-    "Spring26/CS3210/Labs/Lab Notes/Week 1.md",
-    "Spring26/CS3210/Labs/Lab0",
-    "Spring26/CS3210/Labs/Lab Notes",
-    "Spring26/ECE2036/Intro.md",
-    "Spring26/ECE2036/Labs/Lab1/lab1Part2.cc",
-    "Spring26/ECE2036/Image Ref/Screenshot 2026-01-15 010727.png",
-    "Spring26/ECE2036/Image Ref/Screenshot 2026-01-14 145610.png",
-    "Spring26/ECE3025/ECE3025 Intro - Review.md",
-    "DS.md",
+    "Spring26/ECE2031/Labs/Lab Photos/Pasted image 20260122163726.png",
+    "Spring26/ECE2031/Labs/Lab Photos/Pasted image 20260122161957.png",
+    "Spring26/ECE2031/Labs/Lab Photos/Pasted image 20260122160434.png",
+    "Spring26/ECE2031/Labs/Lab Photos/Pasted image 20260122044407.png",
     "Spring26/CS3210/Labs/Lab0.md",
+    "Spring26/CS3210/x86/x86 - General Overview.md",
+    "Spring26/CS3210/Intro - Course Overview.md",
+    "Spring26/CS3210/Labs/Lab Notes/Week 1.md",
+    "Spring26/CS3210/XV6/XV6 - System Calls.md",
+    "Spring26/CS3210/XV6/XV6 - General Overview.md",
+    "Spring26/CS3210/Labs/Lab0/README.md",
+    "Spring26/ECE3025/Chapter 1 - Vector Analysis and Coordinate Systems.md",
+    "Spring26/ECE2036/Intro.md",
+    "Spring26/ECE3025/ECE3025 Intro - Review.md",
     "Untitled 1.md",
     "Spring26/CS3210/Intro - 1.13.2026.md",
     "2026-01-13.md",
