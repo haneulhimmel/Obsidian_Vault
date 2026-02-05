@@ -45,4 +45,4 @@
 	1. 2.5.1 -> Density of States
 		1. How many allowed states are in the range E...E+dE $$\mathrm{g_{C}(E)dE = \frac{m_{n}^*\sqrt{2m_{n}^*(E-E_{c})}}{\pi^2\hbar^3}dE\ \alpha\ (E-E_{c})^{1/2}}$$$$\mathrm{g_{V}(E)dE = \frac{m_{p}^*\sqrt{2m_{p}^*(E_{V}-E)}}{\pi^2\hbar^3}dE\ \alpha\ (E_{V}-E)^{1/2}}$$
 	2. Fermi Function & Fermi Energy
-		1. Definition: The function represents the probability that a state is occupied or not
+		1. Definition: The function represents the probability that a state is occupied or not$$f(E)=\frac{1}{1+e^{(E-E_{F})kT}}$$

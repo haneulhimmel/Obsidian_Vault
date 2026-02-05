@@ -1,4 +1,9 @@
 [[ECE3025 Intro - Review]]
+
+[[William H. Hayt, Jr. and John A. Buck - Engineering Electromagnetics-McGraw-Hill Education (2018).pdf]]
+
+[[Conformal Mapping]]
+
 - Coordinate Systems and Applications
 	i. Cartesian Coordinates (x, y, z)
 	+ Calculation from Origin to Point (x, y, z) $$\vec{r} = x\hat{a}_{{x}}\ +\ y\hat{a}_{y}\ +\ z\hat{a}_{z}$$
@@ -17,10 +22,13 @@
 		4. Vector Projection: $\overrightarrow{A}\cdot{\hat{a}_{{B}}} \rightarrow$ Project of a along b
 		5. Orthogonality
 		6. Cross Product
+
+	- Differential Length
+		- $$d\overrightarrow{l} = dx\hat{a}_{x} + dy\hat{a}_{y} + dz\hat{a}_{z}$$
+		- Example Area Calculation $$dA = dx  \hat{a}_{x} \times dy  \hat{a}_{y} = dxdy  \hat{a}_{z} \left.\vphantom{\begin{matrix}a\\b\\c\end{matrix}}\right\}nn-1$$
 		
 	ii. Curvilinear
-	- General Curvilinear Coordinates -> [Schaun's Outline Mathematical Handbook]
-		- 
+	- General Curvilinear Coordinates -> [[Schaun's Outline Mathematical Handbook.pdf]]
 		- $h_{1}, h_{2}, h_{3}$ are scale factors; $\hat{a_{1}}, \hat{a_{2}}, \hat{a_{3}}$ are unit vectors of the curvilinear coordinate (are orthogonal)$$h_{1}^{2} = (\frac{\partial{x}}{u_{{1}}})^{2} + \frac{\partial{y}}{u_{{1}}})^{2} + \frac{\partial{z}}{u_{{1}}})^{2}$$
 		- Differential Elements$$d \overrightarrow{r} = h_{1}u_{1}\hat{a_{1}} + h_{2}u_{2}\hat{a_{2}} + h_{3}u_{3}\hat{a_{3}}$$
 		- Gradient $$\nabla \phi = \frac{1}{h_{1}} \frac{\partial{\phi}}{\partial{u_{1}}} + \frac{1}{h_{2}} \frac{\partial{\phi}}{\partial{u_{2}}} + \frac{1}{h_{3}} \frac{\partial{\phi}}{\partial{u_{3}}}$$
@@ -57,7 +65,7 @@ a & b & c  \\
 				- First find x-component: $\overrightarrow{B}\cdot{\hat{a_{x}}} = y$
 				- $\therefore \rho$-component = $\overrightarrow{B}\cdot{\hat{a_{\rho}}}$
 	
-	iii. Spherical
+	iv. Spherical
 	- General: ($r, \theta, \phi$)
 		- $x=r\sin \theta \cos \phi$
 		- $y=r\sin \theta \sin \phi$
@@ -66,4 +74,21 @@ a & b & c  \\
 		- $\hat{a_{r}} = \sin \theta \cos \phi  \hat{a_{x}} + \sin \theta \sin \phi  \hat{a_{y}} + \cos \theta  \hat{a_{z}}$
 		- $\hat{{a_{{\theta}}}} = r\cos \theta \cos \phi + r\cos \theta \sin \phi-r\sin \theta$
 	- Differential Length Element
-		- $d\overrightarrow{l} = dr\hat{a_{r}} + rd\theta + r\sin \theta d\phi$
+		- $$d\overrightarrow{l} = dr\hat{a_{r}} + rd\theta + r\sin \theta d\phi$$
+	- Example of Constant Surfaces
+		- Surface defined by r = constant
+			- $dr\hat{a}_{r} = 0$ b/c $dr=0$ since r is a constant and the derivative of a const is 0
+			- $rd\theta \hat{a}_{\theta} \times r\sin(\theta)d\phi\hat{a}_{\phi} = r^{2}\sin(\theta)d\theta d\phi  \hat{a}_{r}$ --> Cross product is the unit vector r b/c of the circle of cross product rule --> $r^2$ results in the units $[dA]$ = $m^2$
+		- Surface defined by $\phi$ = constant
+			- $r\sin(\theta)d\phi = 0$ b/c $d\phi=0$
+			- $dr \hat{a}_{r} \times rd\theta \hat{a}_{\theta} = r dr d\theta  \hat{a}_{\phi}$ --> $d\overrightarrow{A} = m\cdot m=r\cdot dr=m^2$
+
+	- Volume Element -> Representation of Parallel Pipet $$\begin{aligned}
+dv &= d\overrightarrow{l}_{r} \cdot d\overrightarrow{l}_{\theta} \times d\overrightarrow{l}_{\phi} \\
+&= dr  \hat{a}_{r} \cdot (r^{2}\sin(\theta)drd\theta d\phi \hat{a}_{r}) \\
+&= r^{2}\sin(\theta)drd\theta d\phi \\
+[dV] &= r^{2}\cdot dr = m^{3}
+\end{aligned}$$
+	- Application within Gauss $$\underset{ S \;}{ {\rlap{\mspace{1mu} \boldsymbol{\bigcirc}}{\rlap{\int}{\;\int}}}} {\overrightarrow{D}\cdot d\overrightarrow{A}} = \iiint \rho_{{v}}dV$$
+		- Where the triple integral definition represents Q (charge) enclosed in sphere
+

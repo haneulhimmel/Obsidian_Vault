@@ -4,35 +4,77 @@
     "type": "split",
     "children": [
       {
-        "id": "28af11d7392611b9",
+        "id": "0caec515a7185529",
         "type": "tabs",
         "children": [
           {
-            "id": "04a10397ba3f2bf4",
+            "id": "d48168666f09ed99",
             "type": "leaf",
             "state": {
-              "type": "pdf",
+              "type": "markdown",
               "state": {
-                "file": "Spring26/ECE3040/Textbook/pierret-1996.pdf"
+                "file": "Spring26/ECE3040/Lectures/Lecture 6.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "lucide-file-text",
-              "title": "pierret-1996"
+              "icon": "lucide-file",
+              "title": "Lecture 6"
             }
           },
           {
-            "id": "ec03c12b4960d5a1",
+            "id": "92c8a6f005e4f305",
+            "type": "leaf",
+            "state": {
+              "type": "excalidraw",
+              "state": {
+                "file": "Excalidraw/FSM_SJ.excalidraw.md"
+              },
+              "icon": "excalidraw-icon",
+              "title": "FSM_SJ.excalidraw"
+            }
+          },
+          {
+            "id": "6ebb4c1ebd7f4628",
             "type": "leaf",
             "state": {
               "type": "pdf",
               "state": {
-                "file": "Spring26/ECE3040/Homework/ECE3040 HW1.pdf"
+                "file": "Spring26/CS3210/Text/OS Textbook.pdf"
               },
               "icon": "lucide-file-text",
-              "title": "ECE3040 HW1"
+              "title": "OS Textbook"
+            }
+          },
+          {
+            "id": "7267792e325a5233",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Spring26/ECE2031/Labs/Lab3/VHDL.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "VHDL"
+            }
+          },
+          {
+            "id": "74958e59544ce99b",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Spring26/ECE3025/Chapter 2 - Coulomb's Law.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Chapter 2 - Coulomb's Law"
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -105,7 +147,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Spring26/ECE2031/Labs/Lab 1.md",
+                "file": "Spring26/ECE2036/Labs/Lab1/Lab 1 Responses.md",
                 "collapseAll": true,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -115,7 +157,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for Lab 1"
+              "title": "Backlinks for Lab 1 Responses"
             }
           },
           {
@@ -193,53 +235,57 @@
       "command-palette:Open command palette": false,
       "bases:Create new base": false,
       "obsidian-git:Open Git source control": false,
-      "code-files:Create Code File": false
+      "code-files:Create Code File": false,
+      "obsidian-excalidraw-plugin:New drawing": false
     }
   },
-  "active": "ec03c12b4960d5a1",
+  "active": "7267792e325a5233",
   "lastOpenFiles": [
-    "Spring26/ECE3040/Img Ref/Pasted image 20260125201929.png",
-    "Spring26/ECE3040/Img Ref/Pasted image 20260125201233.png",
-    "Spring26/ECE3040/Textbook/pierret-solns.pdf",
-    "Spring26/ECE3040/Homework/ECE3040 HW1.pdf",
-    "Spring26/ECE3040/Homework",
-    "Spring26/ECE3040/New folder",
-    "Spring26/ECE3040/Textbook/pierret-1996.pdf",
-    "Spring26/ECE3040/Lectures/Lecture 2.md",
-    "Spring26/DS.md",
-    "Spring26/ECE2031/Labs/Lab 1.md",
-    "Spring26/ECE3040/Textbook/pierret-solns-same-prob.pdf",
-    "Spring26/ECE3040/Textbook/pdfcoffee.com_semiconductor-device-fundamentals-solutions-manual-robert-pierret-pdf-free.pdf",
-    "Spring26/ECE3040/Textbook/semiconductor-device-fundamentals-2nd-edition-by-robert-f-pierret_compress.pdf",
-    "Spring26/ECE3040/Textbook/cbd92f95-8157-4288-9fef-85ba361d1d8e.pdf",
-    "Spring26/ECE3040/Textbook/microelectronic-circuit-design-4th-edition-jaeger.pdf",
-    "Spring26/ECE3040/Img Ref/Pasted image 20260125033749.png",
-    "Spring26/ECE3040/Img Ref/Pasted image 20260125033738.png",
+    "Spring26/ECE3025/Chapter 2 - Coulomb's Law.md",
+    "Spring26/ECE2031/Labs/Lab3/VHDL.md",
+    "Spring26/ECE2031/Labs/Lab3/IMG REF/Waveform.png",
+    "Spring26/ECE2031/Labs/Lab3/IMG REF/Waveform 1.png",
+    "Spring26/ECE2031/Labs/Lab3/IMG REF/Schematic.png",
+    "Spring26/ECE2031/Labs/Lab3/IMG REF/Schematic.png",
+    "Spring26/ECE2031/ScheduleOutline_Spring2026.pdf",
+    "Spring26/ECE2031/Labs/Lab3/IMG REF/Schematic.png",
+    "Spring26/ECE2031/Labs/Lab3/IMG REF/Schematic 1.png",
+    "Spring26/CS3210/Test1/Virtual Memory Management.md",
+    "Spring26/CS3210/Text/OS Textbook.pdf",
+    "Spring26/ECE3040/Lectures/Lecture 6.md",
+    "Excalidraw/FSM_SJ.excalidraw.md",
+    "Spring26/SiliconJacket/FSM_SJ.excalidraw (1).png",
+    "Spring26/SiliconJacket/FSM_SJ.excalidraw.png",
+    "Spring26/SiliconJacket",
+    "Spring26/New folder",
+    "Pasted Image 20260204230353_053.png",
+    "Pasted Image 20260204230341_221.png",
+    "Spring26/ECE3040/Lectures/Doping.md",
+    "Spring26/ECE3040/Lectures/Lecture 4.md",
     "Spring26/ECE3040/Lectures/Lecture 3.md",
-    "Spring26/ECE3040/Img Ref/Pasted image 20260121100734.png",
-    "Spring26/ECE3040/Img Ref/Pasted image 20260121092431.png",
-    "Spring26/ECE2031/Labs/Lab Photos/Pasted image 20260122163726.png",
-    "Spring26/ECE2031/Labs/Lab Photos/Pasted image 20260122161957.png",
-    "Spring26/ECE2031/Labs/Lab Photos/Pasted image 20260122160434.png",
-    "Spring26/ECE2031/Labs/Lab Photos/Pasted image 20260122044407.png",
-    "Spring26/CS3210/Labs/Lab0.md",
-    "Spring26/CS3210/x86/x86 - General Overview.md",
-    "Spring26/CS3210/Intro - Course Overview.md",
-    "Spring26/CS3210/Labs/Lab Notes/Week 1.md",
-    "Spring26/CS3210/XV6/XV6 - System Calls.md",
-    "Spring26/CS3210/XV6/XV6 - General Overview.md",
-    "Spring26/CS3210/Labs/Lab0/README.md",
-    "Spring26/ECE3025/Chapter 1 - Vector Analysis and Coordinate Systems.md",
-    "Spring26/ECE2036/Intro.md",
     "Spring26/ECE3025/ECE3025 Intro - Review.md",
-    "Untitled 1.md",
-    "Spring26/CS3210/Intro - 1.13.2026.md",
-    "2026-01-13.md",
-    "2026-01-12.md",
-    "Robotic Arm/Brainstorm.md",
-    "Robotic Arm/Mechanical Arm Key Measurements.md",
-    "Untitled.canvas",
-    "This is 360.md",
-    "Welcome.md"
+    "Spring26/ECE2031/Labs/Lab3/IMG REF",
+    "Spring26/CS3210/Labs/Lab Notes/Week 3.md",
+    "Spring26/ECE2031/Labs/Lab 3 - Bruh/Untitled",
+    "Spring26/ECE2031/Labs/Lab 2 - Oscilloscopes/Lab 2 Report.md",
+    "Spring26/CS3210/Test1/x86/x86 - General Overview.md",
+    "Resume.md",
+    "Spring26/ECE2031/Labs/Lab 2 - Oscilloscopes/Submission Folder.zip",
+    "Spring26/ECE2031/Labs/Lab 2 - Oscilloscopes/Submission Folder/Submission Folder.zip",
+    "Spring26/ECE2031/Labs/Lab 2 - Oscilloscopes/Submission Folder/Duty Cycle (High Time).zip",
+    "Spring26/ECE2031/Labs/Lab 2 - Oscilloscopes/Submission Folder/Scope Checkout.txt",
+    "Spring26/CS3210/Labs/Lab1/README.md",
+    "Spring26/CS3210/Test1/Isolation in OS.md",
+    "Spring26/CS3210/Labs/Lab0/README.md",
+    "Spring26/ECE3040/Lectures/Lecture 2.md",
+    "Spring26/CS3210/Test1/Kernel Organization and APIs.md",
+    "Spring26/ECE2031/Labs/Lab 2 - Oscilloscopes/Prelab.md",
+    "Reference Latex.md",
+    "Excalidraw/Drawing 2026-01-28 12.05.58.excalidraw.md",
+    "Spring26/CS3210/Labs/Lab Notes/Week 2.md",
+    "Excalidraw/Drawing 2026-01-27 16.18.11.excalidraw.md",
+    "Excalidraw/Drawing 2026-01-26 23.16.24.excalidraw.md",
+    "Excalidraw/Untitled.md",
+    "Untitled.canvas"
   ]
 }

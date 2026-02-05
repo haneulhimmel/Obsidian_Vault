@@ -1,8 +1,9 @@
 [
-  "obsidian-latex-suite",
   "lawlist",
   "obsidian-icon-folder",
   "code-styler",
   "obsidian-git",
-  "code-files"
+  "code-files",
+  "obsidian-excalidraw-plugin",
+  "obsidian-latex-suite"
 ]

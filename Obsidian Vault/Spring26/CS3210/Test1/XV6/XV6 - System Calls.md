@@ -1,0 +1,41 @@
+- Write(fd, buf, n): "The call write(fd, buf, n) writes n bytes from buf to the file descriptor fd and returns the number of bytes written."
+
+- Read(fd, buf, n): "The call read(fd, buf, n) reads at most n bytes from the file descriptor fd, copies them into buf, and returns the number of bytes read."
+
+- Open(filename, flag): Open a file; the flags indicate read/write
+	- 4 Modes: O_RDONLY, O_WRONLY, O_RDWR, O_CREATE
+	- reeturns an integer fd that points to the opened file
+	- Used in conjunction w/ the write() and read() to edit files
+
+- Fork(): Creates a child process that is a copy of the parent
+	- Child process continues executing right after the fork call
+	- Any mods to mem in the child are not reflected in the parent
+	- Parent can wait for the child process to terminate using wait()
+
+- Sbrk(n): Grows/shrinks process's memory by n bytes
+	- Not the same as malloc
+	- Conditions
+		- if n < 0: shrinks
+		- if n > 0: grows
+	- sbrk returns the location of the new memory
+	- Error return: -1 for sbrk and 0 for malloc
+- File offsets
+	- Each file struct has an offset field
+	- Each time you read() or write() to the file, the number of successful bytes will increment the offset
+	- Implications
+		- Write()
+		- Read()
+		- You would read trash values since the write call moved to file offset $\therefore$ you would need to insert a **close()** after writing
+- pipe(fds)
+	- Creates unidirectional data channel
+	- fds is an array containing 2 fds
+		- fds[0] -> read end of the pipe, read from it using read()
+		- fds[1] -> write end of the pipe, write to it using write()
+	- You can close unused pipe ends w/ close()
+- Debubbing
+	- User-Space
+		- GDB can only access mem allocated to the target process
+		- User programs operate on a VA space [0x0, 0x80000000]
+	- Kernel
+		- GDB can access all physical memory
+			- Does not recognize symbols in user space
