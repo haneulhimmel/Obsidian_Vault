@@ -1,1 +1,8 @@
-{}
+{
+  "theme": "system",
+  "accentColor": "",
+  "textFontFamily": "Times New Roman,JetBrainsMono Nerd Font Mono",
+  "enabledCssSnippets": [
+    "Image_Align"
+  ]
+}

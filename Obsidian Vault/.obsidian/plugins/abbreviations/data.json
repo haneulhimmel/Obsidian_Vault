@@ -1,0 +1,100 @@
+{
+  "abbreviations": {
+    "eg.": {
+      "value": "for example",
+      "isEnabled": true,
+      "position": 10
+    },
+    "atm": {
+      "value": "at the moment",
+      "isEnabled": true,
+      "position": 11
+    },
+    "imo": {
+      "value": "in my opinion",
+      "isEnabled": true,
+      "position": 12
+    },
+    "w/": {
+      "value": "with",
+      "isEnabled": true,
+      "position": 13
+    },
+    "w/o": {
+      "value": "without",
+      "isEnabled": true,
+      "position": 14
+    },
+    "ily": {
+      "value": "I love you",
+      "isEnabled": true,
+      "position": 15
+    },
+    "btw": {
+      "value": "by the way",
+      "isEnabled": true,
+      "position": 16
+    },
+    "afaik": {
+      "value": "as far as I know",
+      "isEnabled": true,
+      "position": 17
+    },
+    "rn": {
+      "value": "right now",
+      "isEnabled": true,
+      "position": 18
+    },
+    "b/c": {
+      "value": "because",
+      "isEnabled": true,
+      "position": 8
+    },
+    "addr": {
+      "value": "address",
+      "isEnabled": true,
+      "position": 7
+    },
+    "esp": {
+      "value": "especially",
+      "isEnabled": true,
+      "position": 4,
+      "isCaseSensitive": false
+    },
+    "virt": {
+      "value": "virtual",
+      "isEnabled": true,
+      "position": 5
+    },
+    "phys": {
+      "value": "physical",
+      "isEnabled": true,
+      "position": 6
+    },
+    "::pb": {
+      "value": "<div style=\"page-break-after: always;\"></div>",
+      "isEnabled": true,
+      "position": 9
+    },
+    "\"o": {
+      "value": "ö",
+      "isEnabled": true,
+      "position": 3
+    },
+    "\\ep": {
+      "value": "\\epsilon",
+      "isEnabled": true,
+      "position": 2
+    },
+    "\\vep": {
+      "value": "\\varepsilon",
+      "isEnabled": true,
+      "position": 1
+    },
+    "wrt": {
+      "value": "with respect to",
+      "isEnabled": true,
+      "position": 0
+    }
+  }
+}

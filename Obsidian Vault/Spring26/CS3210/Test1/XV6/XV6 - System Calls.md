@@ -1,10 +1,12 @@
+- File Descriptor (fd): small integer representing a kernel-managed object that a process may read from or write to; for simplicity, the object the fd represents may be referred to as a "file" 
+
 - Write(fd, buf, n): "The call write(fd, buf, n) writes n bytes from buf to the file descriptor fd and returns the number of bytes written."
 
 - Read(fd, buf, n): "The call read(fd, buf, n) reads at most n bytes from the file descriptor fd, copies them into buf, and returns the number of bytes read."
 
 - Open(filename, flag): Open a file; the flags indicate read/write
 	- 4 Modes: O_RDONLY, O_WRONLY, O_RDWR, O_CREATE
-	- reeturns an integer fd that points to the opened file
+	- returns an integer fd that points to the opened file
 	- Used in conjunction w/ the write() and read() to edit files
 
 - Fork(): Creates a child process that is a copy of the parent
@@ -32,7 +34,7 @@
 		- fds[0] -> read end of the pipe, read from it using read()
 		- fds[1] -> write end of the pipe, write to it using write()
 	- You can close unused pipe ends w/ close()
-- Debubbing
+- Debugging
 	- User-Space
 		- GDB can only access mem allocated to the target process
 		- User programs operate on a VA space [0x0, 0x80000000]

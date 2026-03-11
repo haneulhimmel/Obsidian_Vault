@@ -69,3 +69,5 @@ When we have **non-cooperative** entities:
 #### System Call Interface (User vs Kernel)
 1. Safe transfer of control from user to kernel
 2. Essentially, breaking isolation in a controlled manner
+
+![[os_isolation.pdf]]

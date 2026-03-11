@@ -1,5 +1,5 @@
 
-- Textbook: [[OS Textbook.pdf]]
+- Textbook: [[XV6 Manual.pdf]]
 - Operating Systems Overview
 	- Classically, 3 Responsibilities
 		1. Manage Computer Resources

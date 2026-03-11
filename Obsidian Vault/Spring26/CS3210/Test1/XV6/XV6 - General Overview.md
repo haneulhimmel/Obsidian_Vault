@@ -48,3 +48,5 @@
 	- Memory
 		- Modern OS rarely refer to real, physical memory addresses when addressing code, stack, heap, etc.
 		- VM is used to create the abstraction that every process has access to all of addressable memory
+
+![[xv6_intro.pdf]]

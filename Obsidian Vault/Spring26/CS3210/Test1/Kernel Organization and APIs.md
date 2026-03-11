@@ -32,4 +32,6 @@ Microkernel: Maximizes safety as the OS services are factored out (Isolation) ->
 
 Monolithic: Maximizes performance at the cost of safety
 
-Ex: FS failing won't affect the kernel -> However, a lot of processes are dependent on FS so regardless it doesn't matter if it's in the kernel or not (might as well shove it in kernel)
+Ex: File Server (FS) failing won't affect the kernel -> However, a lot of processes are dependent on FS so regardless it doesn't matter if it's in the kernel or not (might as well shove it in kernel)
+
+![[kernel_org.pdf]]

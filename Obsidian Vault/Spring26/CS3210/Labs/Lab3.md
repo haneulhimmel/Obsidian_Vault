@@ -1,0 +1,1 @@
+**In summary**: Save scheduler state → Switch to user memory → Mark running → Execute process → Return from process → Switch back to kernel memory → Clear CPU proc pointer.

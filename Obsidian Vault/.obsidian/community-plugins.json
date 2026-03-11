@@ -2,8 +2,14 @@
   "lawlist",
   "obsidian-icon-folder",
   "code-styler",
-  "obsidian-git",
   "code-files",
   "obsidian-excalidraw-plugin",
-  "obsidian-latex-suite"
+  "obsidian-latex-suite",
+  "obsidian-pandoc",
+  "abbreviations",
+  "obsidian-annotator",
+  "omnisearch",
+  "docxer",
+  "colored-text",
+  "better-export-pdf"
 ]
