@@ -8,34 +8,90 @@
         "type": "tabs",
         "children": [
           {
-            "id": "1d4ca3b45e880ff5",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Interview Prep/Interview Prep.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Interview Prep"
-            }
-          },
-          {
             "id": "aa46e04310c6bd07",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Reference Latex.md",
+                "file": "Spring26/CS3210/Labs/Lab3.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Reference Latex"
+              "title": "Lab3"
+            }
+          },
+          {
+            "id": "cc3b4f4a4d610d78",
+            "type": "leaf",
+            "state": {
+              "type": "pdf",
+              "state": {
+                "file": "Spring26/CS3210/Text/XV6 Manual.pdf"
+              },
+              "icon": "lucide-file-text",
+              "title": "XV6 Manual"
+            }
+          },
+          {
+            "id": "05972dc296c3b8cd",
+            "type": "leaf",
+            "state": {
+              "type": "pdf",
+              "state": {
+                "file": "Spring26/ECE3040/Textbook/pierret-1996.pdf"
+              },
+              "icon": "lucide-file-text",
+              "title": "pierret-1996"
+            }
+          },
+          {
+            "id": "4cf2ec12e842621e",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Spring26/ECE3040/Lectures/Test2/Chapter 5.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Chapter 5"
             }
           }
-        ]
+        ],
+        "currentTab": 3
+      },
+      {
+        "id": "e41f8d9751cd46a2",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "8ab7a0d8def895a0",
+            "type": "leaf",
+            "state": {
+              "type": "pdf",
+              "state": {
+                "file": "Spring26/ECE3040/Lectures/Test2/Lec Ref/Chapter51_MOSFET_MOSCap.pdf"
+              },
+              "icon": "lucide-file-text",
+              "title": "Chapter51_MOSFET_MOSCap"
+            }
+          },
+          {
+            "id": "319606d2519f80d1",
+            "type": "leaf",
+            "state": {
+              "type": "pdf",
+              "state": {
+                "file": "Spring26/ECE3040/Lectures/Test2/Lec Ref/Chapter52_MOSFET_Basics.pdf"
+              },
+              "icon": "lucide-file-text",
+              "title": "Chapter52_MOSFET_Basics"
+            }
+          }
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -92,7 +148,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 435.5
+    "width": 435.5,
+    "collapsed": true
   },
   "right": {
     "id": "090be3bc32675644",
@@ -200,36 +257,85 @@
       "omnisearch:Omnisearch": false
     }
   },
-  "active": "1d4ca3b45e880ff5",
+  "floating": {
+    "id": "d70753f52c5f72b3",
+    "type": "floating",
+    "children": [
+      {
+        "id": "5ee29d773e69cec9",
+        "type": "window",
+        "children": [
+          {
+            "id": "3d02e011ce2735f0",
+            "type": "tabs",
+            "children": [
+              {
+                "id": "2314d3096108d568",
+                "type": "leaf",
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "Spring26/ECE2036/Tests/Exam2/Test2.md",
+                    "mode": "source",
+                    "source": false
+                  },
+                  "icon": "lucide-file",
+                  "title": "Test2"
+                }
+              }
+            ]
+          }
+        ],
+        "direction": "vertical",
+        "x": 420,
+        "y": 20,
+        "width": 600,
+        "height": 860,
+        "maximize": true,
+        "zoom": 0
+      }
+    ]
+  },
+  "active": "319606d2519f80d1",
   "lastOpenFiles": [
-    "Interview Prep/Interview.png",
+    "Spring26/ECE3040/Lectures/Test2/Chapter 5.md",
+    "Spring26/ECE2036/Tests/Exam2/Test2.md",
+    "Spring26/ECE2036/Tests/Exam1/Test1.md",
+    "Spring26/ECE2036/Tests/Exam2",
+    "Spring26/ECE2036/Tests/Exam1",
+    "Spring26/ECE2036/Tests/Exam1/Pasted image 20260225000927.png",
+    "Spring26/ECE2036/Tests/Exam1/Pasted image 20260225001902.png",
+    "Spring26/ECE3040/Lectures/Test2/Untitled.md",
+    "Spring26/ECE3040/Lectures/Test2/Chapter 6.md",
+    "Spring26/ECE3040/Textbook/solutions-manual-microelectronic-circuit-design-4th-ed_compress.pdf",
+    "Spring26/ECE3040/Lectures/Test2/Chapter 4.md",
+    "Spring26/ECE3040/Lectures/Test2/Lec Ref/Chapter52_MOSFET_Basics.pdf",
+    "Spring26/ECE3040/Textbook/pierret-solns.pdf",
+    "Spring26/ECE3040/Textbook/pierret-1996.pdf",
+    "Spring26/ECE3040/Lectures/Test2/Lec Ref/Chapter51_MOSFET_MOSCap.pdf",
+    "Spring26/ECE3040/Img Ref/physics_bjt.png",
+    "Spring26/ECE3040/Lectures/Test2/Lec Ref/Chapter43_BJT_Models.pdf",
+    "Spring26/ECE3040/Img Ref/carrier_density_collector.png",
+    "Spring26/ECE3040/Img Ref/basebias_thevenin_bjt_acanalysis.png",
+    "Spring26/ECE3040/Img Ref/transistor_equivalent_circuit_III.png",
+    "Spring26/ECE3040/Img Ref/transistor_equivalent_circuit_II.png",
+    "Spring26/ECE3040/Img Ref/transistor_equivalent_circuit_I.png",
+    "Spring26/ECE3040/Img Ref/bjt_ac_analysis.png",
+    "Spring26/ECE3040/Img Ref/dc_analysis_calc_bjt.png",
+    "Spring26/ECE3040/Lectures/Test2/Lec Ref/Chapter42_BJT_Statics.pdf",
+    "Spring26/ECE3040/Lectures/Test2/Lec Ref/Chapter41_BJT_Basics_v2.pdf",
+    "Spring26/ECE3040/Lectures/Overview.md",
+    "Spring26/CS3210/Test1/User and Kernel - Threading.md",
+    "Spring26/CS3210/Labs/Lab3.md",
     "Reference Latex.md",
-    "Spring26/ECE3025/Exam2/second exam ece3025 Fall 2021.pdf",
-    "Spring26/ECE3025/Exam2/second exam ece3025 spring 2017.pdf",
+    "Spring26/ECE2036/Labs/Lab3/Lab3 Notes.md",
+    "Interview Prep/Interview Prep.md",
     "Spring26/CS3210/Test1/Comprehensive.md",
     "Spring26/CS3210/Test1/Midterm Practice-3210-spring26.md",
-    "Spring26/CS3210/Text/XV6 Manual.pdf",
-    "Spring26/CS3210/Test1/Lec Ref/kernel_org.pdf",
-    "Interview Prep/Interview Prep.md",
-    "Interview Prep/ECE3043 notes.pdf",
-    "Interview Prep/Unconfirmed 790069.crdownload",
-    "Interview Prep",
-    "New folder",
-    "Spring26/CS3210/Test1/Img Ref/Pasted image 20260309204255.png",
-    "Spring26/CS3210/Test1/Img Ref/Kernel_Interface.png",
-    "Spring26/CS3210/Test1/Img Ref/Pasted image 20260309203630.png",
-    "Spring26/CS3210/Test1/Img Ref/Microkernel.png",
     "Spring26/CS3210/Test1/Kernel Organization and APIs.md",
-    "Spring26/CS3210/Test1/Img Ref/VM_Layout.png",
     "Spring26/CS3210/Test1/XV6/XV6 - System Calls.md",
-    "Spring26/CS3210/Test1/Lec Ref/xv6_intro.pdf",
     "Spring26/ECE1100/ECE1100 - EPortfolio.md",
-    "Spring26/ECE3025/Project/Exam2/Unconfirmed 61865.crdownload",
-    "Spring26/CS3210/Test1/User and Kernel - Threading.md",
     "Spring26/CS3210/Test1/User and Kernel - Threading 1.md",
-    "Spring26/CS3210/Test1/Img Ref/Concurrency vs Parallelism.png",
-    "Spring26/CS3210/Test1/Img Ref/Pasted image 20260309032431.png",
-    "Spring26/CS3210/Test1/Img Ref/kernel_threading.png",
     "Spring26/CS3210/Test1/Schedulers 1.md",
     "Spring26/CS3210/Test1/Concurrency 1.md",
     "Spring26/CS3210/Test1/Concurrency.md",
@@ -238,16 +344,6 @@
     "Spring26/CS3210/Test1/Isolation in OS 1.md",
     "Spring26/CS3210/Test1/x86 - General Overview 1.md",
     "Spring26/CS3210/Test1/XV6/XV6 - General Overview 1.md",
-    "Spring26/ECE3025/Project/Project Logistics.md",
-    "Spring26/ECE2036/Tests/Test1.md",
-    "Spring26/CS3210/Labs/Lab2.md",
-    "Spring26/ECE3025/Project/Img/Hall_Effect_RelationtoMRI.png",
-    "Spring26/ECE3025/Project/Img/Hall_Effect.png",
-    "Spring26/ECE3025/Chapter 1 - Vector Analysis and Coordinate Systems.md",
-    "Spring26/ECE3025/ECE3025 Intro - Review.md",
-    "Spring26/ECE3025/Chapter 3 - Gauss' Law.md",
-    "Spring26/ECE3025/Chapter 2 - Coulomb's Law.md",
-    "Spring26/CS3210/Test1/Exam 1 Review.md",
     "Untitled.canvas"
   ]
 }
