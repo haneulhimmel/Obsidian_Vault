@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Spring26/CS3210/Labs/Lab3.md",
+                "file": "Spring26/ECE2036/Tests/Exam2/Test 2.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Lab3"
+              "title": "Test 2"
             }
           },
           {
@@ -59,8 +59,7 @@
               "title": "Chapter 5"
             }
           }
-        ],
-        "currentTab": 3
+        ]
       },
       {
         "id": "e41f8d9751cd46a2",
@@ -148,8 +147,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 435.5,
-    "collapsed": true
+    "width": 435.5
   },
   "right": {
     "id": "090be3bc32675644",
@@ -275,12 +273,12 @@
                 "state": {
                   "type": "markdown",
                   "state": {
-                    "file": "Spring26/ECE2036/Tests/Exam2/Test2.md",
+                    "file": "Spring26/ECE2036/Tests/Exam1/Test1.md",
                     "mode": "source",
                     "source": false
                   },
                   "icon": "lucide-file",
-                  "title": "Test2"
+                  "title": "Test1"
                 }
               }
             ]
@@ -296,10 +294,16 @@
       }
     ]
   },
-  "active": "319606d2519f80d1",
+  "active": "aa46e04310c6bd07",
   "lastOpenFiles": [
-    "Spring26/ECE3040/Lectures/Test2/Chapter 5.md",
+    "Spring26/ECE2036/Tests/Exam2/exam2_q1.png",
+    "Spring26/ECE2036/Tests/Exam2/exam2_q3.png",
+    "Spring26/CS3210/Labs/Lab3.md",
     "Spring26/ECE2036/Tests/Exam2/Test2.md",
+    "Spring26/ECE2036/Tests/Exam2/Test 2.md",
+    "Spring26/ECE2036/Tests/Exam2/Array.cc",
+    "Spring26/ECE3040/Lectures/Test2/Chapter 5.md",
+    "Spring26/ECE3040/Lectures/Test2/Lec Ref/Chapter52_MOSFET_Basics.pdf",
     "Spring26/ECE2036/Tests/Exam1/Test1.md",
     "Spring26/ECE2036/Tests/Exam2",
     "Spring26/ECE2036/Tests/Exam1",
@@ -309,7 +313,6 @@
     "Spring26/ECE3040/Lectures/Test2/Chapter 6.md",
     "Spring26/ECE3040/Textbook/solutions-manual-microelectronic-circuit-design-4th-ed_compress.pdf",
     "Spring26/ECE3040/Lectures/Test2/Chapter 4.md",
-    "Spring26/ECE3040/Lectures/Test2/Lec Ref/Chapter52_MOSFET_Basics.pdf",
     "Spring26/ECE3040/Textbook/pierret-solns.pdf",
     "Spring26/ECE3040/Textbook/pierret-1996.pdf",
     "Spring26/ECE3040/Lectures/Test2/Lec Ref/Chapter51_MOSFET_MOSCap.pdf",
@@ -321,12 +324,9 @@
     "Spring26/ECE3040/Img Ref/transistor_equivalent_circuit_II.png",
     "Spring26/ECE3040/Img Ref/transistor_equivalent_circuit_I.png",
     "Spring26/ECE3040/Img Ref/bjt_ac_analysis.png",
-    "Spring26/ECE3040/Img Ref/dc_analysis_calc_bjt.png",
     "Spring26/ECE3040/Lectures/Test2/Lec Ref/Chapter42_BJT_Statics.pdf",
-    "Spring26/ECE3040/Lectures/Test2/Lec Ref/Chapter41_BJT_Basics_v2.pdf",
     "Spring26/ECE3040/Lectures/Overview.md",
     "Spring26/CS3210/Test1/User and Kernel - Threading.md",
-    "Spring26/CS3210/Labs/Lab3.md",
     "Reference Latex.md",
     "Spring26/ECE2036/Labs/Lab3/Lab3 Notes.md",
     "Interview Prep/Interview Prep.md",
@@ -342,8 +342,6 @@
     "Spring26/CS3210/Test1/Virtual Memory Management 1.md",
     "Spring26/CS3210/Test1/Kernel Organization and APIs 1.md",
     "Spring26/CS3210/Test1/Isolation in OS 1.md",
-    "Spring26/CS3210/Test1/x86 - General Overview 1.md",
-    "Spring26/CS3210/Test1/XV6/XV6 - General Overview 1.md",
     "Untitled.canvas"
   ]
 }

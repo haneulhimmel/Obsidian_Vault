@@ -4,5 +4,6 @@
   "textFontFamily": "Times New Roman,JetBrainsMono Nerd Font Mono",
   "enabledCssSnippets": [
     "Image_Align"
-  ]
+  ],
+  "cssTheme": "Shiba Inu"
 }
