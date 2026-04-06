@@ -13,5 +13,7 @@
 ![[Chapter33_PN_Dynamic.pdf]]
 
 # 3.4: Diode Circuit Models
+![[Chapter34_PN_Models.pdf]]
 
 # 3.5: Diode Applications and Circuits
+![[Chapter35_PN_Circuits.pdf]]
