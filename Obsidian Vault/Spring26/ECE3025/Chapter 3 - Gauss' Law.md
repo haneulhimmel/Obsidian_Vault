@@ -1,0 +1,1 @@
+$$\nabla \times \vec{E} = \frac{\partial{B}}{\partial T}$$

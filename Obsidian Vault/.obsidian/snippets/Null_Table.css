@@ -1,0 +1,62 @@
+/* Increase readable-line-width for notes with tables */
+.markdown-rendered.is-readable-line-width.tables .markdown-preview-sizer,
+.markdown-source-view.mod-cm6.is-readable-line-width.tables .cm-sizer,
+.markdown-source-view.mod-cm6.is-readable-line-width.tables .cm-content,
+.markdown-source-view.mod-cm6.is-readable-line-width.tables .cm-line {
+    max-width: 900px !important;
+}
+
+thead {
+    caret-color: var(--text-normal, white);
+    background-color: var(--interactive-accent, #A865B5);
+}
+.markdown-rendered th,
+.markdown-source-view.mod-cm6 .cm-table-widget th {
+    color: var(--text-on-accent, white);
+    font-size: 1em;
+    font-weight: bold;
+    border: 5px solid var(--background-modifier-border, white) !important;
+}
+
+.cm-html-embed tbody tr td,
+.markdown-rendered tbody tr td {
+    text-align: justify;
+    vertical-align: middle;
+}
+
+.cm-html-embed tbody tr:nth-child(odd) td,
+.markdown-rendered tbody tr:nth-child(odd) td {
+    background-color: var(--background-primary, white);
+}
+.cm-html-embed tbody tr:nth-child(even) td,
+.markdown-rendered tbody tr:nth-child(even) td {
+    background-color: var(--background-secondary, #f3feff);
+}
+
+.cm-html-embed tbody tr,
+.markdown-rendered tbody tr,
+.cm-html-embed td,
+.markdown-rendered td {
+    border: 5px solid var(--background-modifier-border, white) !important;
+}
+
+.cm-html-embed td, .markdown-rendered td,
+.cm-html-embed th, .markdown-rendered th {
+    word-break: auto-phrase;
+    min-width: 12ch;
+}
+
+.markdown-rendered table {
+    margin: 1em 0.5em;
+    box-shadow: -1px 2px 4px 4px var(--background-modifier-box-shadow, #f3f3f3);
+}
+
+/* Fix for Wikipedia Theme */
+.markdown-rendered table thead tr th {
+    padding: 0.5em;
+}
+
+/* Hide Empty Line Before Table */
+.cm-line:has(+ .cm-embed-block.cm-table-widget) br {
+  display: none;
+}

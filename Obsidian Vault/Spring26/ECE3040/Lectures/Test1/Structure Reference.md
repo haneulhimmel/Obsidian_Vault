@@ -1,5 +1,6 @@
 - Cubic Crystal Structures
-	- FCC Lattice![[Pasted image 20260125033738.png]]
-	- BCC Lattice![[Pasted image 20260125033749.png]]
+	- FCC (Face-Centered Cubic) Lattice![[Pasted image 20260125033738.png]]
+	- BCC (Body-Center Cubic) Lattice![[Pasted image 20260125033749.png]]
 	- ![[Pasted image 20260125201233.png]]
-	- ![[Pasted image 20260125201929.png]]
+	- Diamond Lattice -  Two Identical FCC are interconnected with a shift of $\mathrm{(\frac{1}{4}, \frac{1}{4}, \frac{1}{4})}$
+		- ![[Pasted image 20260125201929.png]]

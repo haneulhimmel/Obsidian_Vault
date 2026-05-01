@@ -4,36 +4,116 @@
     "type": "split",
     "children": [
       {
-        "id": "875bc75751ae186c",
+        "id": "2d0d4650dd596568",
         "type": "tabs",
         "children": [
           {
-            "id": "cc3b4f4a4d610d78",
+            "id": "87a9ecb899d69da5",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Spring26/CS3210/Labs/Lab3/Lab3.md",
+                "file": "Spring26/ECE3040/Exam Review.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Lab3"
+              "title": "Exam Review"
             }
           },
           {
-            "id": "4cf2ec12e842621e",
+            "id": "1b00a1715c96e3e4",
             "type": "leaf",
             "state": {
-              "type": "pdf",
+              "type": "markdown",
               "state": {
-                "file": "Spring26/CS3210/Text/XV6 Manual.pdf"
+                "file": "General Concept Overview.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "lucide-file-text",
-              "title": "XV6 Manual"
+              "icon": "lucide-file",
+              "title": "General Concept Overview"
             }
           }
-        ]
+        ],
+        "currentTab": 1
+      },
+      {
+        "id": "b0b400b5b45ffe37",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "21bc20a10ac67d4e",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Spring26/ECE3040/Lectures/Test1/Chapter 2 - Basic Semiconductor Physics.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Chapter 2 - Basic Semiconductor Physics"
+            }
+          },
+          {
+            "id": "aa43f916c513bfb7",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Spring26/ECE3040/Lectures/Test1/Chapter 3 - PN-Junctions.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Chapter 3 - PN-Junctions"
+            }
+          },
+          {
+            "id": "01b8e975ef03e4b9",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Spring26/ECE3040/Lectures/Test2/Chapter 4.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Chapter 4"
+            }
+          },
+          {
+            "id": "73990e457bbb3bf9",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Spring26/ECE3040/Lectures/Test2/Chapter 5.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Chapter 5"
+            }
+          },
+          {
+            "id": "5f3357b09790ac19",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Spring26/ECE3040/Lectures/Test2/Chapter 6.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Chapter 6"
+            }
+          }
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -196,56 +276,57 @@
       "bases:Create new base": false,
       "code-files:Create Code File": false,
       "obsidian-excalidraw-plugin:New drawing": false,
-      "omnisearch:Omnisearch": false
+      "omnisearch:Omnisearch": false,
+      "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "cc3b4f4a4d610d78",
+  "active": "01b8e975ef03e4b9",
   "lastOpenFiles": [
     "Spring26/ECE3040/Lectures/Test2/Chapter 5.md",
-    "Spring26/CS3210/Text/XV6 Manual.pdf",
-    "Spring26/ECE2036/Tests/Exam2/Test Content.md",
-    "Spring26/CS3210/Labs/Lab3/Lab3.md",
-    "Spring26/ECE2036/Tests/Exam2/Test 2.md",
-    "Spring26/ECE3040/Textbook/pierret-1996.pdf",
     "Spring26/ECE3040/Lectures/Test2/Chapter 4.md",
     "Spring26/ECE3040/Lectures/Test1/Chapter 3 - PN-Junctions.md",
-    "Spring26/ECE2036/Text/C++ How to Program, 10th Edition.pdf",
-    "Spring26/ECE2036/Tests/Exam2/neural_nets_notes.pdf",
-    "Spring26/ECE2036/Tests/Exam2/Unconfirmed 364450.crdownload",
-    "Spring26/ECE2036/Tests/Exam2/exam2_q3.png",
-    "Spring26/ECE3040/Lectures/Test2/Lec Ref/Chapter34_PN_Models.pdf",
-    "Spring26/ECE3040/Lectures/Test2/Lec Ref/Unconfirmed 802242.crdownload",
-    "Spring26/ECE3040/Lectures/Test2/Lec Ref/Chapter35_PN_Circuits.pdf",
-    "Spring26/ECE3040/Lectures/Test2/Lec Ref/Unconfirmed 875648.crdownload",
     "Spring26/ECE3040/Lectures/Test2/Chapter 6.md",
+    "General Concept Overview.md",
+    "Pasted image 20260430021213.png",
+    "Pasted image 20260430013914.png",
+    "Pasted image 20260430011335.png",
+    "Pasted image 20260430010649.png",
+    "Pasted image 20260430003631.png",
+    "Pasted image 20260430001102.png",
+    "Spring26/ECE3040/Lectures/Test1/Chapter 2 - Basic Semiconductor Physics.md",
+    "Spring26/ECE3040/Lectures/Test1/Lec ref/Carrier_GenerationAndRecombination.pdf",
+    "Spring26/ECE3040/Lectures/Test1/Lec ref/Carrier_Transport.pdf",
+    "Pasted image 20260429235852.png",
+    "Pasted image 20260429235811.png",
+    "Pasted image 20260429233008.png",
+    "Spring26/ECE3040/Exam Review.md",
+    "Spring26/ECE3040/Lectures/Test1/Lec ref/Carrier_Statistics.pdf",
+    "Pasted image 20260429190504.png",
+    "Spring26/ECE3040/Lectures/Test1/Lec ref/Bandstructure.pdf",
+    "Spring26/ECE3040/Lectures/Test1/Lec ref/Structure.pdf",
+    "Spring26/ECE3040/Lectures/Test1/Lec ref/PN_Circuits.pdf",
+    "Spring26/ECE3040/Lectures/Test1/Lec ref/Unconfirmed 212679.crdownload",
+    "Spring26/ECE3040/Lectures/Test1/Lec ref/PN_Models.pdf",
+    "Spring26/ECE3040/Lectures/Test1/Lec ref/Unconfirmed 372643.crdownload",
+    "Spring26/ECE3040/Lectures/Test1/Structure Reference.md",
+    "Spring26/ECE3040/Lectures/Test1/Lec ref/Unconfirmed 288867.crdownload",
     "Spring26/ECE3040/Lectures/Overview.md",
-    "Spring26/ECE2036/Tests/Exam2/exam2_sample.pdf",
-    "Spring26/CS3210/Labs/Lab2.md",
-    "Spring26/ECE2036/Tests/Exam1/Test1.md",
-    "Spring26/ECE2036/Tests/Exam2/exam2_q1.png",
-    "Spring26/ECE2036/Tests/Exam2/Test2.md",
-    "Spring26/ECE2036/Tests/Exam1/Pasted image 20260225000927.png",
-    "Spring26/ECE2036/Tests/Exam1/Pasted image 20260225001902.png",
-    "Spring26/ECE3040/Lectures/Test2/Untitled.md",
-    "Spring26/ECE3040/Img Ref/physics_bjt.png",
-    "Spring26/ECE3040/Img Ref/carrier_density_collector.png",
-    "Spring26/ECE3040/Img Ref/basebias_thevenin_bjt_acanalysis.png",
-    "Spring26/ECE3040/Img Ref/transistor_equivalent_circuit_III.png",
-    "Spring26/ECE3040/Img Ref/transistor_equivalent_circuit_II.png",
-    "Spring26/ECE3040/Img Ref/transistor_equivalent_circuit_I.png",
-    "Spring26/CS3210/Test1/User and Kernel - Threading.md",
-    "Reference Latex.md",
-    "Spring26/ECE2036/Labs/Lab3/Lab3 Notes.md",
-    "Interview Prep/Interview Prep.md",
-    "Spring26/CS3210/Test1/Comprehensive.md",
+    "Spring26/CS3210/Exam 1.md",
     "Spring26/CS3210/Test1/Midterm Practice-3210-spring26.md",
-    "Spring26/CS3210/Test1/Kernel Organization and APIs.md",
-    "Spring26/CS3210/Test1/XV6/XV6 - System Calls.md",
-    "Spring26/ECE1100/ECE1100 - EPortfolio.md",
-    "Spring26/CS3210/Test1/User and Kernel - Threading 1.md",
-    "Spring26/CS3210/Test1/Schedulers 1.md",
-    "Spring26/CS3210/Test1/Concurrency 1.md",
-    "Spring26/CS3210/Test1/Concurrency.md",
+    "Spring26/CS3210/Final Review.md",
+    "Spring26/CS3210/High-Level Overview.md",
+    "Spring26/CS3210/Labs/Lab3/Lab3.md",
+    "Spring26/CS3210/Labs/Lab4/Lab4 Doc.md",
+    "Spring26/CS3210/Exam2Lec.pd.md",
+    "Spring26/CS3210/Intro - Course Overview.md",
+    "Spring26/CS3210/Test1/Comprehensive.md",
+    "Spring26/CS3210/Test1/x86 - General Overview.md",
+    "Spring26/ECE3025/Chapter 3 - Gauss' Law.md",
+    "Spring26/ECE3025/Chapter 2 - Coulomb's Law.md",
+    "Spring26/ECE2031/Exam 2.md",
+    "Spring26/ECE2031/Project/Untitled.md",
+    "Spring26/ECE2036/Tests/Exam2/Test Content.md",
+    "Spring26/ECE2036/Tests/Exam2/Test 2.md",
     "Untitled.canvas"
   ]
 }

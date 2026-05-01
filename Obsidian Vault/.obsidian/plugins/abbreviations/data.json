@@ -3,96 +3,101 @@
     "eg.": {
       "value": "for example",
       "isEnabled": true,
-      "position": 10
+      "position": 11
     },
     "atm": {
       "value": "at the moment",
       "isEnabled": true,
-      "position": 11
+      "position": 12
     },
     "imo": {
       "value": "in my opinion",
       "isEnabled": true,
-      "position": 12
+      "position": 13
     },
     "w/": {
       "value": "with",
       "isEnabled": true,
-      "position": 13
+      "position": 14
     },
     "w/o": {
       "value": "without",
       "isEnabled": true,
-      "position": 14
+      "position": 15
     },
     "ily": {
       "value": "I love you",
       "isEnabled": true,
-      "position": 15
+      "position": 16
     },
     "btw": {
       "value": "by the way",
       "isEnabled": true,
-      "position": 16
+      "position": 17
     },
     "afaik": {
       "value": "as far as I know",
       "isEnabled": true,
-      "position": 17
+      "position": 18
     },
     "rn": {
       "value": "right now",
       "isEnabled": true,
-      "position": 18
+      "position": 19
     },
     "b/c": {
       "value": "because",
       "isEnabled": true,
-      "position": 8
+      "position": 9
     },
     "addr": {
       "value": "address",
       "isEnabled": true,
-      "position": 7
+      "position": 8
     },
     "esp": {
       "value": "especially",
       "isEnabled": true,
-      "position": 4,
+      "position": 5,
       "isCaseSensitive": false
     },
     "virt": {
       "value": "virtual",
       "isEnabled": true,
-      "position": 5
+      "position": 6
     },
     "phys": {
       "value": "physical",
       "isEnabled": true,
-      "position": 6
+      "position": 7
     },
     "::pb": {
       "value": "<div style=\"page-break-after: always;\"></div>",
       "isEnabled": true,
-      "position": 9
+      "position": 10
     },
     "\"o": {
       "value": "ö",
       "isEnabled": true,
-      "position": 3
+      "position": 4
     },
     "\\ep": {
       "value": "\\epsilon",
       "isEnabled": true,
-      "position": 2
+      "position": 3
     },
     "\\vep": {
       "value": "\\varepsilon",
       "isEnabled": true,
-      "position": 1
+      "position": 2
     },
     "wrt": {
       "value": "with respect to",
+      "isEnabled": true,
+      "position": 1
+    },
+    "\\AA": {
+      "value": "\\mathring{A}",
       "isEnabled": true,
       "position": 0
     }

@@ -3,7 +3,8 @@
   "accentColor": "",
   "textFontFamily": "Times New Roman,JetBrainsMono Nerd Font Mono",
   "enabledCssSnippets": [
-    "Image_Align"
+    "Image_Align",
+    "Null_Table"
   ],
   "cssTheme": "Shiba Inu"
 }
