@@ -4,6 +4,14 @@
 1. Lecture notes on Canvas
 2. Lab 3: Write-Up and Code
 3. ![[neural_nets_notes.pdf]]
+	1. Neuron Computation: $\mathrm{Z= b + \sum w_{i}x_{i}}$ 
+		1. Where b represents the bias, w represents the weight of the corresponding input, and x is the input
+	2. Activation Function: $\mathrm{y= \sigma(z)}$ -> Applies the function across the calculated bias + weighted inputs
+	3. Loss Function
+		1. $\mathrm{(y-t)}^2$ -> correct - generated outputs
+		2. $\mathrm{}$
+	4. Gradient Descent
+	5. Backwards Propagation
 
 ---
 ## Pointers, Built-In Arrays, Dynamic Memory Allocation
@@ -224,4 +232,36 @@ private:
 ---
 ## Operator Overloading
 1. Sec. 10.2 - 10.8, 10.10 - 10.11
+2. Example with Complex class
+```
+class Complex {
+	public:
+		double getReal() const;
+		void setReal(double);
+		double getImag() const;
+		void setImag(double);
+		// add function prototypes here, if necessary
+		bool operator==(constComplex &) const;
+		Complex & operator=(const Complex &);
+		
+	private:
+		double real;
+		double imag;
+}
+
+// Overloaded function implementation
+bool Complex::operator==(constComplex & c2) const {
+	if((real == c2.getReal()) && (imag == c2.getImag()))
+		return true;
+	return false;
+}
+
+Complex & Complex::operator=(const Complex & c2) const {
+	if(!(*this == c2)) {
+		real = c2.getReal();
+		imag = c2.getImag();
+	}
+	return *this;
+}
+```
 

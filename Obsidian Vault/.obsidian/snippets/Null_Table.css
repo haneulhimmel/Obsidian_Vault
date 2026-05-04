@@ -8,7 +8,7 @@
 
 thead {
     caret-color: var(--text-normal, white);
-    background-color: var(--interactive-accent, #A865B5);
+    background-color: var(--interactive-accent, #CBC3E3);
 }
 .markdown-rendered th,
 .markdown-source-view.mod-cm6 .cm-table-widget th {
